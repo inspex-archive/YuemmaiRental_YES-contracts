@@ -1,0 +1,34 @@
+{
+  "name": "YES",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.3.2",
+    "@uniswap/v2-core": "^1.0.1",
+    "hardhat": "^2.5.0"
+  },
+  "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.0.2",
+    "@nomiclabs/hardhat-waffle": "^2.0.1",
+    "@typechain/ethers-v5": "^7.0.1",
+    "@typechain/hardhat": "^2.3.1",
+    "@types/chai": "^4.2.21",
+    "@types/mocha": "^9.0.0",
+    "@types/node": "^16.7.13",
+    "@uniswap/lib": "^4.0.1-alpha",
+    "chai": "^4.3.4",
+    "ethereum-waffle": "^3.4.0",
+    "ethers": "^5.4.3",
+    "hardhat-contract-sizer": "^2.1.1",
+    "hardhat-gas-reporter": "^1.0.4",
+    "solidity-coverage": "^0.6.7",
+    "ts-node": "^10.2.1",
+    "typechain": "^5.2.0",
+    "typescript": "^4.4.2"
+  }
+}
